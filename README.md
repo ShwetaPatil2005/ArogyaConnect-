@@ -27,8 +27,6 @@ ArogyaConnect is a healthcare appointment booking system that allows patients to
 3. Start backend server
 4. Run frontend
 
-## 📸 Screenshots
-(Add later for better impact)
 
 ## 📈 Future Scope
 - AI-based health assistant
